@@ -11,10 +11,14 @@
             "id": "b17ccfd2f3153cf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "Atividade Prática Planejamento de Escopo Ladder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atividade Prática Planejamento de Escopo Ladder"
             }
           }
         ]
@@ -168,6 +172,11 @@
   },
   "active": "b17ccfd2f3153cf6",
   "lastOpenFiles": [
+    "Maquina de Estados.md",
+    "Manual de desenvolvimento de Projetos de máquinas.md",
+    "Atividade Prática Planejamento de Escopo Ladder.md",
+    "Conteúdo Sobre CLP LS Eletric.md",
+    "Dicas Ladder.md",
     "S100 (08L0623S).md",
     "Sincronismo com leitura da frequência real e correção automática pelo CLP/Sincronismo com leitura da frequência real e correção automática pelo CLP.state",
     "Sincronismo com leitura da frequência real e correção automática pelo CLP/Sincronismo com leitura da frequência real e correção automática pelo CLP.~tmpx",
@@ -185,7 +194,6 @@
     "Conteúdos Inversor de De Frequência LS Eletric..md",
     "Dois_Inversores_S100_Ethernet/Dois_Inversores_S100_Ethernet.xgwx_bkx0",
     "Pasted image 20260630152441.png",
-    "Ladder.md",
     "M100.md",
     "Pasted image 20260630134904.png",
     "Módulo Ethernet S100 (08L0721S).md",
@@ -198,7 +206,6 @@
     "Pasted image 20260630092635.png",
     "Pasted image 20260629114718.png",
     "Pasted image 20260629112347.png",
-    "Sem título.md",
     "S100 08L0623S.md",
     "README.md",
     "Sem título.canvas",
