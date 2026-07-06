@@ -112,6 +112,40 @@ Para a programação de uma máquina é importante ter esses padrões definidos:
 - Ações de saída.
 
 
-### [[Atividade Prática Planejamento de Escopo Ladder]]
+#### [[Atividade Prática Planejamento de Escopo Ladder]]
 
-[[Manual de desenvolvimento de Projetos de máquinas]]
+#### [[Manual de desenvolvimento de Projetos de máquinas]]
+
+## O Coração da Máquina de Estados
+
+A primeira pergunta que deveria ser feita ao CLp quando se liga a máquina é :
+"Onde a máquina está?" ou "Qual estado atual da máquina?" essa é a variável mais importante do programa. 
+
+É necessário que de forma figurada o CLP responda qual a Fase está a máquina.
+
+### [[Gerenciador de Estados]]
+
+
+### Aula 3 separação de Responsabilidades
+
+Conceito: [[Separação de Responsabilidade (Separation of concerns)]]
+Conceito: [[ Baixo acoplamento Low coupling]]
+
+Existem duas arquitetura para máquinas de estados
+
+Arquitetura 1: Centralizada
+
+Tudo fica dentro de um único programa.
+
+É simples.
+
+É ótima para máquinas pequenas. 
+
+Arquitetura 2: Modular
+
+Cada estado possui seu próprio módulo.
+É muito organizada.
+É utilizada em máquinas maiores.
+
+ 
+
